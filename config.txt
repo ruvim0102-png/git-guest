@@ -1,1 +1,3 @@
+mode=standard
+version=1.0
 
